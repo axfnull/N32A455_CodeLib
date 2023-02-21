@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>2608927809</fileChecksum>
+    <configuration>
+        <name>N32A455</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\User_Systick_Config.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_usart.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_qspi.h</file>
+            <file>$PROJ_DIR$\..\inc\User_Systick_Config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_rcc.c</file>
+            <file>$PROJ_DIR$\..\src\User_Usart_Config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_rcc.h</file>
+            <file>$PROJ_DIR$\..\inc\User_Usart_Config.h</file>
+            <file>$PROJ_DIR$\..\src\User_Can_Config.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\..\src\User_LED_Config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\device\startup\startup_n32a455_EWARM.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\misc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_can.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_bkp.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_dbg.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_flash.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_usart.c</file>
+            <file>$PROJ_DIR$\..\src\User_Systick_Config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_pwr.c</file>
+            <file>$PROJ_DIR$\..\src\n32a455_it.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_LED_Config.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_Can_Config.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_gpio.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_Usart_Config.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_rtc.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_it.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\misc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_usart.h</file>
+            <file>$PROJ_DIR$\..\src\main.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\device\system_n32a455.c</file>
+            <file>$PROJ_DIR$\..\readme.txt</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_LED_Config.o</file>
+            <file>$PROJ_DIR$\Debug\List\CAN_Tx_Rx.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_rtc.o</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_bkp.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\misc.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_flash.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_Systick_Config.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_Can_Config.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_Usart_Config.xcl</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_rcc.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_gpio.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_usart.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_n32a455.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_n32a455.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_bkp.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_Usart_Config.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_it.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_pwr.o</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_gpio.xcl</file>
+            <file>$TOOLKIT_DIR$\config\linker\Nations\N32A455\N32A455xE.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_n32a455_EWARM.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_flash.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_can.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\misc.o</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_dbg.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_dbg.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_it.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\device\system_n32a455.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_rtc.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\CAN_Tx_Rx.pbd</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_exti.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$PROJ_DIR$\Debug\Exe\CAN_Tx_Rx.bin</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_can.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\core\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_LED_Config.xcl</file>
+            <file>$PROJ_DIR$\Debug\Exe\CAN_Tx_Rx.out</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_dma.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_rcc.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_usart.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_dbg.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_flash.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_pwr.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_crc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_Systick_Config.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\User_Can_Config.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\core\core_cm4.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_dac.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_comp.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\device\n32a455_conf.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_sdio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_spi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_flash.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_rcc.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_i2c.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_rtc.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\core\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_gpio.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\device\n32a455.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_can.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_wwdg.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_bkp.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_rtc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_n32a455.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_iwdg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_dbg.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_bkp.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_tim.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_can.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_opamp.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\core\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\core\mpu_armv7.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_adc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\inc\n32a455_pwr.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\n32a455_pwr.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\misc.__cstat.et</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 77 33</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 6 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 83 66 100 110 116 121 2 108 95 96 114 28 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\User_Usart_Config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46 37 117 112 90 64 92 104 89 82 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 83 66 100 110 116 121 2 6 108 95 96 114 28 106 27 7</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\User_Can_Config.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\User_LED_Config.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\device\startup\startup_n32a455_EWARM.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 123</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 83 66 100 110 116 121 2 6 108 95 96 114 28 106</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_can.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 60</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 105</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 115 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 93 85 91 65 78 71 83 66 100 110 116 121 2 6 108 95 96 114 28 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_bkp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 113</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 107 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 115 93 85 91 65 78 71 83 66 100 110 116 121 2 6 108 95 96 114 28 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_dbg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 111</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 78 71 83 66 100 110 116 121 2 6 108 95 96 114 28 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 83 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 66 100 110 116 121 2 6 108 95 96 114 28 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 1</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 80</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 28 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 83 66 100 110 116 121 2 6 108 95 96 114 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\User_Systick_Config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 0</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 83 66 100 110 116 121 2 6 108 95 96 114 28 106 27 3</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_pwr.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 122</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 121 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 83 66 100 110 116 2 6 108 95 96 114 28 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\n32a455_it.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 103</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 83 100 110 116 121 2 6 108 95 96 114 28 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\n32a455_std_periph_driver\src\n32a455_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 101</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 108 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 83 66 100 110 116 121 2 6 95 96 114 28 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\main.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 9</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\firmware\CMSIS\device\system_n32a455.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 109</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 104 89 82 37 117 112 90 64 118 75 102 86 119 68 99 94 120 107 115 93 85 91 65 78 71 83 66 100 110 116 121 2 6 108 95 96 114 28 106 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\CAN_Tx_Rx.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 33</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 57 40 61 36 60 63 59 47 53 54 45 34 48 58 50 42 32 41 52 62 44 55 35</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+</project>
